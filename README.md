@@ -5,13 +5,13 @@
 
 ## Concept 
 1. Making our website PWS 
-  - accessible offline
+    - accessible offline
     - Using cashe Storage for mulitple data typies.
-     - Audits for mobile and desktop.
+    - Audits for mobile and desktop.
 
 ## Technologies 
 1. Vanilla JS
 2. workbox-sw.js library
-   - add routes to service worker
+     - add routes to service worker
      - caching strategies
-      - workbox-cli genrates Production
+     - workbox-cli genrates Production
